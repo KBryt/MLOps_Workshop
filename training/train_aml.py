@@ -45,7 +45,7 @@ def main():
         "--dataset_name",
         type=str,
         help="Dataset name",
-        default="insurance_dataset",
+        default="insurance_dataset1",
     )
 
     args = parser.parse_args()
